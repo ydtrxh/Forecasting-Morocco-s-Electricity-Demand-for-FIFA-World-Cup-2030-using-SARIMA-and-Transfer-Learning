@@ -9,8 +9,8 @@ sys.path.insert(0, os.path.abspath("../src"))
 
 # ── Project Information ───────────────────────────────────────────────────────
 project   = "Morocco 2030 WC Demand Forecast"
-copyright = "2026, Younes Benchikhi — ENSAM Meknès, Filière IATD"
-author    = "Younes Benchikhi"
+copyright = "2026, Younes Chajara and Achraf Oudich — ENSAM Meknès, Filière IATD"
+author    = "Younes Chajara and Achraf Oudich"
 release   = "1.0.0"
 version   = "1.0"
 
@@ -147,7 +147,7 @@ latex_elements = {
 latex_documents = [
     (root_doc, "morocco2030.tex",
      "Morocco 2030 WC Demand Forecast",
-     "Younes Benchikhi", "manual"),
+     "Younes Chajara and Achraf Oudich", "manual"),
 ]
 
 # ── Epub Output ───────────────────────────────────────────────────────────────

@@ -63,7 +63,7 @@ The final deployment pipeline: SARIMA baseline + neural uplift injection, produc
 > *Forecasting Morocco's Electricity Demand for FIFA World Cup 2030 using SARIMA and Transfer-Learned Neural Event Kernels*
 
 **Institution:** ENSAM Meknès — Filière IATD  
-**Author:** Younes Benchikhi  
+**Authors:** Younes Chajara and Achraf Oudich  
 **Status:** Research · Active  
 
 ---
@@ -151,10 +151,10 @@ See the {doc}`installation` and {doc}`reproducing_results` pages for the full pi
 ### Citation
 
 ```bibtex
-@misc{benchikhi2026morocco,
+@misc{chajara2026morocco,
   title        = {Forecasting Morocco's Electricity Demand for FIFA World Cup 2030
                   using SARIMA and Transfer-Learned Neural Event Kernels},
-  author       = {Benchikhi, Younes},
+  author       = {Chajara, Younes and Oudich, Achraf},
   year         = {2026},
   institution  = {ENSAM Meknès},
   howpublished = {\url{https://github.com/your-username/wc2030-morocco-electricity-forecast}},

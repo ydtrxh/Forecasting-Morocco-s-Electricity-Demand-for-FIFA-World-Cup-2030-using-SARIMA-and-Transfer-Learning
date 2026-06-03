@@ -417,10 +417,10 @@ python src/morocco_2030_deployment.py
 If you use this work in academic research, please cite:
 
 ```bibtex
-@misc{benchikhi2026morocco,
+@misc{chajara2026morocco,
   title        = {Forecasting Morocco's Electricity Demand for FIFA World Cup 2030
                   using SARIMA and Transfer-Learned Neural Event Kernels},
-  author       = {Benchikhi, Younes},
+  author       = {Chajara, Younes and Oudich, Achraf},
   year         = {2026},
   institution  = {ENSAM Meknès},
   howpublished = {\url{https://github.com/<your-username>/wc2030-morocco-electricity-forecast}},
@@ -434,7 +434,7 @@ If you use this work in academic research, please cite:
 
 This project was developed as part of the undergraduate research curriculum at **École Nationale Supérieure des Arts et Métiers, Meknès (ENSAM Meknès)**, Filière IATD (Ingénierie Avancée en Technologies et Données).
 
-The author thanks:
+The authors thank:
 - The **IEA** for making the *Monthly Electricity Statistics* dataset publicly available, enabling cross-country electricity demand analysis.
 - The **Office National de l'Électricité et de l'Eau Potable (ONEE)** for providing Morocco's historical electricity consumption data.
 - The open-source communities behind **StatsForecast**, **PyTorch**, **NumPy**, **pandas**, and **Matplotlib**.
